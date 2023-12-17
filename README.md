@@ -16,6 +16,7 @@ This repository serves as my personal space on GitHub. You're welcome to explore
 - **Generative AI:** Exploring the creative possibilities in the Generative Modelling.
 - **Explainable AI:** Looking to make ML modles interpretable.
 - **Data Science and ML:** Learning and experimenting with Data Science and Machine Learning.
+- **LLM and Neural Networks:** Convincing myself that chat gpt isn't sorcery.
 
 ## Connect with Me
 
